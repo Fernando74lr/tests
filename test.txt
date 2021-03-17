@@ -10,7 +10,8 @@
     <br><br>
     <center>
         <div id="card" style="background-color:yellowgreen;">
-            <h1><i>¡Hola, Fernando!</i></h1>
+            <h1>¡Hola, Fernando!</h1>
+            <br><br>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim in unde voluptate assumenda, repellat quam necessitatibus aliquam sed impedit temporibus blanditiis nihil. Reiciendis accusamus aspernatur iusto, quaerat incidunt consectetur sequi.</p>
         </div>
     </center>
