@@ -9,8 +9,10 @@
 <body>
     <br><br>
     <center>
-        <b>Incrustrando HTML en Gmail</b><br>
-        <p>Hey</p>
+        <div id="card" style="background-color:yellowgreen;">
+            <h1>¡Hola, Fernando!</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim in unde voluptate assumenda, repellat quam necessitatibus aliquam sed impedit temporibus blanditiis nihil. Reiciendis accusamus aspernatur iusto, quaerat incidunt consectetur sequi.</p>
+        </div>
     </center>
 </body>
 </html>
